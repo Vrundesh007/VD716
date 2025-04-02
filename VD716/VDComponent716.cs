@@ -17,7 +17,7 @@ namespace VD716
     /// new tabs/panels will automatically be created.
     /// </summary>
     public VDComponent716()
-      : base("VDComponent716", "Nickname",
+      : base("VDC", "Nickname",
         "Description",
         "Category", "Subcategory")
     {
